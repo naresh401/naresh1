@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="hrm_hmepage" duration-ms="17485" started-at="2019-05-15T12:51:25Z" finished-at="2019-05-15T12:51:43Z">
+    <groups>
+    </groups>
+    <test name="naresh test" duration-ms="17485" started-at="2019-05-15T12:51:25Z" finished-at="2019-05-15T12:51:43Z">
+      <class name="testcases.tc_1">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testcases.tc_1@157f54e]" name="launch" is-config="true" duration-ms="6794" started-at="2019-05-15T18:21:25Z" finished-at="2019-05-15T18:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:testcases.tc_1@157f54e]" name="tc_001" duration-ms="1299" started-at="2019-05-15T18:21:32Z" finished-at="2019-05-15T18:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testcases.tc_1@157f54e]" name="close" is-config="true" duration-ms="604" started-at="2019-05-15T18:21:34Z" finished-at="2019-05-15T18:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.tc_1 -->
+      <class name="testcases.tc2">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testcases.tc2@6ae04d]" name="launch" is-config="true" duration-ms="4783" started-at="2019-05-15T18:21:34Z" finished-at="2019-05-15T18:21:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="tc_002()[pri:0, instance:testcases.tc2@6ae04d]" name="tc_002" duration-ms="3402" started-at="2019-05-15T18:21:39Z" finished-at="2019-05-15T18:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testcases.tc2@6ae04d]" name="close" is-config="true" duration-ms="594" started-at="2019-05-15T18:21:42Z" finished-at="2019-05-15T18:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.tc2 -->
+    </test> <!-- naresh test -->
+  </suite> <!-- hrm_hmepage -->
+</testng-results>
